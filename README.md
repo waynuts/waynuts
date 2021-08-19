@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waynuts
+- 👋 Hi, I’m Ridwan Muhamad
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning HTML+CSS+JS
 - 📫 How to reach me ridwanherwandi@gmail.com
