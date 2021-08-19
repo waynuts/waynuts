@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @waynuts
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning HTML+CSS+JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ridwanherwandi@gmail.com
 
 <!---
