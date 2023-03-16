@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ridwan Muhamad
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning HTML+CSS+JS
+- 🌱 I’m currently learning everything
 - 📫 How to reach me ridwanherwandi@gmail.com
 
 <!---
